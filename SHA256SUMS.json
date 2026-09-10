@@ -5,13 +5,13 @@
   "files": [
     {
       "path": "01_SOH_V2_COM_MILEAGE.ipynb",
-      "bytes": 219652,
-      "sha256": "f9f84d599a84422e4080d4ddf2233aa93f3f41e6eed861c71f8edadc93f72763"
+      "bytes": 216068,
+      "sha256": "db1a4459d1129e9abc14b5d94443daf642b8cd8d2e81e6b176df1adf79eab36c"
     },
     {
       "path": "02_SOH_V2_SEM_MILEAGE.ipynb",
-      "bytes": 220327,
-      "sha256": "063e424776b52cc6bfe434d0d52e2e765dff4b2c65adcf98c3e02e313c134a59"
+      "bytes": 216735,
+      "sha256": "dc7b73f7600525044f399c95992c26e8b603ec3d6d092d7ba9b45f3da8edc2a1"
     },
     {
       "path": "conda-explicit-win-64.txt",
