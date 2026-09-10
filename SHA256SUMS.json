@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0.0",
+  "created_at_utc": "2026-09-10T12:48:13.403076+00:00",
+  "scope": "immutable distribution files; cache and outputs excluded",
+  "files": [
+    {
+      "path": "01_SOH_V2_COM_MILEAGE.ipynb",
+      "bytes": 219652,
+      "sha256": "f9f84d599a84422e4080d4ddf2233aa93f3f41e6eed861c71f8edadc93f72763"
+    },
+    {
+      "path": "02_SOH_V2_SEM_MILEAGE.ipynb",
+      "bytes": 220327,
+      "sha256": "063e424776b52cc6bfe434d0d52e2e765dff4b2c65adcf98c3e02e313c134a59"
+    },
+    {
+      "path": "conda-explicit-win-64.txt",
+      "bytes": 22486,
+      "sha256": "2c59541162b4b5ef1495f2e40c3951d4e1ea974a3399fc0e6d1c0b818bfd96af"
+    },
+    {
+      "path": "data/data_real_EV_charge.manifest.json",
+      "bytes": 1570,
+      "sha256": "91af6bfa2e1a130c5471885d318a95b42475b19c36a910663d82878dee04221d"
+    },
+    {
+      "path": "data/data_real_EV_charge.pkl",
+      "bytes": 1471317353,
+      "sha256": "5009e59266112befebff38b4c58c475f65eb5afc6358a1dd95c6adc8a5e94565"
+    },
+    {
+      "path": "environment.yml",
+      "bytes": 292,
+      "sha256": "092b9a824eac0cda967619914654de0fff800b2d42db30de8469e38166ac6d90"
+    },
+    {
+      "path": "outputs_reference/u3_with_mileage_by_soh_bin_0005.csv",
+      "bytes": 10929,
+      "sha256": "50e8598619b05cf117bb3d6dcb29036186e36e53534047fb1c2514b2f8363fb1"
+    },
+    {
+      "path": "outputs_reference/u3_with_mileage_by_soh_bins.xlsx",
+      "bytes": 12107,
+      "sha256": "08b950b72055264e35ad94f511f3484eb0f0568cff7490370d9f3d2ec52904ee"
+    },
+    {
+      "path": "outputs_reference/v2_with_vs_without_mileage_metrics.csv",
+      "bytes": 3639,
+      "sha256": "d3e08bf5ab071aa4cd5c27237a5b181de5393505981aa807b22dd80cdf3f69cf"
+    },
+    {
+      "path": "outputs_reference/v2_with_vs_without_mileage_u3.csv",
+      "bytes": 2742,
+      "sha256": "b674976d9cca182359f212f9fbdd66f78b9adcfd86fefa411a388cd21250a2c0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5794,
+      "sha256": "9a8cd4117bd01583e5863027e936c7e93a53258516cb09c591382bef44ec4057"
+    },
+    {
+      "path": "requirements-minimal.txt",
+      "bytes": 176,
+      "sha256": "7ccb591b020f33e9dfa7d20e328cbf701eb951062455a9ead412584d5675c7aa"
+    },
+    {
+      "path": "requirements-pip-lock.txt",
+      "bytes": 13076,
+      "sha256": "aadabdf1407ea621f4fa6d01de18b218b43ecd43a47ab4f8513fbaf4371b21b0"
+    },
+    {
+      "path": "run_all.ps1",
+      "bytes": 1534,
+      "sha256": "a3f6fb974dddba7cf29208c476773137e2e536f1f04e99d5f522c702e2f9e111"
+    },
+    {
+      "path": "system-info.json",
+      "bytes": 416,
+      "sha256": "cbb6aa4e84e275c24aac81bc3367c4f2e87096c8345abc742679a56a16de86de"
+    },
+    {
+      "path": "verify_package.ps1",
+      "bytes": 911,
+      "sha256": "6c454839be7cd23fd31983fab1e9462e4267713b9350bb1761ba47714c2ab39e"
+    }
+  ]
+}

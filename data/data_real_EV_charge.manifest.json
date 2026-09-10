@@ -1,0 +1,73 @@
+{
+  "dataset_name": "data_real_EV_charge",
+  "format": "pickle",
+  "schema_version": "1.0.0",
+  "created_at_utc": "2026-08-23T20:20:58.671258+00:00",
+  "completed": true,
+  "payload_keys": [
+    "event_sequences",
+    "event_meta"
+  ],
+  "event_key_columns": [
+    "car",
+    "mileage",
+    "charge_segment"
+  ],
+  "sequence_item_shape": [
+    "n_snippets",
+    128,
+    8
+  ],
+  "minimum_snippets": 10,
+  "events": 12128,
+  "cars": 83,
+  "metadata_shape": [
+    12128,
+    13
+  ],
+  "metadata_columns": [
+    "fold",
+    "split",
+    "event_id_local",
+    "car",
+    "mileage",
+    "charge_segment",
+    "label",
+    "capacity",
+    "n_snippets",
+    "snippet_shape_0",
+    "snippet_shape_1",
+    "first_idx",
+    "last_idx"
+  ],
+  "duplicates": 0,
+  "splits": {
+    "train": {
+      "events": 9334,
+      "cars": 62,
+      "sequence_count": 9334
+    },
+    "test": {
+      "events": 2794,
+      "cars": 21,
+      "sequence_count": 2794
+    }
+  },
+  "source_files": {
+    "train": {
+      "name": "event_sequences_fold_0_train.pkl",
+      "bytes": 1104376997,
+      "sha256": "365e4231df13db7969cfd9b3d503375f7a61abac6713e7b65c9f1850c397c706"
+    },
+    "test": {
+      "name": "event_sequences_fold_0_test.pkl",
+      "bytes": 367030201,
+      "sha256": "b22b0b2cbface2697fa57b4b20ca5e3c8ee1c47218346df45be80fd6b135e37f"
+    }
+  },
+  "output": {
+    "name": "data_real_EV_charge.pkl",
+    "bytes": 1471317353,
+    "sha256": "5009e59266112befebff38b4c58c475f65eb5afc6358a1dd95c6adc8a5e94565"
+  }
+}

@@ -1,0 +1,13 @@
+# Resultados reproduzíveis, mas gerados localmente durante a execução
+cache/*
+!cache/README.txt
+outputs/*
+!outputs/README.txt
+
+# Arquivos temporários do Jupyter e do sistema
+.ipynb_checkpoints/
+.jupyter_config/
+.jupyter_runtime/
+*.tmp
+Thumbs.db
+desktop.ini
