@@ -36,6 +36,19 @@ Os notebooks terminam deliberadamente após a auditoria das incertezas. Não inc
 
 Arquivos Pickle podem executar código durante o carregamento. Use somente a cópia recebida de uma fonte acadêmica confiável e confirme o SHA-256 antes de executar.
 
+## Clonagem do repositório
+
+O dataset é versionado com Git LFS. Instale o Git LFS antes da clonagem e materialize o arquivo de dados:
+
+```powershell
+git lfs install
+git clone https://github.com/guimatiolli/ev-battery-soh-conformal.git
+cd ev-battery-soh-conformal
+git lfs pull
+```
+
+Depois do `git lfs pull`, `data/data_real_EV_charge.pkl` deve ter aproximadamente 1,47 GB. Um arquivo de poucos bytes indica que somente o ponteiro LFS foi obtido e o pipeline não deve ser iniciado.
+
 ## Criação do ambiente
 
 Opção recomendada, mais portátil:
