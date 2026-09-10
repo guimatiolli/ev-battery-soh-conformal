@@ -20,8 +20,8 @@
     },
     {
       "path": "data/data_real_EV_charge.manifest.json",
-      "bytes": 1570,
-      "sha256": "91af6bfa2e1a130c5471885d318a95b42475b19c36a910663d82878dee04221d"
+      "bytes": 1498,
+      "sha256": "8953b2c598284855444bb1e29b4015e478321256bc2a7317b0a074d242b47412"
     },
     {
       "path": "data/data_real_EV_charge.pkl",
@@ -35,8 +35,8 @@
     },
     {
       "path": "outputs_reference/u3_with_mileage_by_soh_bin_0005.csv",
-      "bytes": 10929,
-      "sha256": "50e8598619b05cf117bb3d6dcb29036186e36e53534047fb1c2514b2f8363fb1"
+      "bytes": 10894,
+      "sha256": "f8d379dbee1681d71e5b4ddaa14598bcd7fb5ddb3a4a9baa02f9061e0da16908"
     },
     {
       "path": "outputs_reference/u3_with_mileage_by_soh_bins.xlsx",
@@ -45,13 +45,13 @@
     },
     {
       "path": "outputs_reference/v2_with_vs_without_mileage_metrics.csv",
-      "bytes": 3639,
-      "sha256": "d3e08bf5ab071aa4cd5c27237a5b181de5393505981aa807b22dd80cdf3f69cf"
+      "bytes": 3620,
+      "sha256": "943f1560f933cf358daf6221596d8e637820fc25afc604cb640107e5081159ee"
     },
     {
       "path": "outputs_reference/v2_with_vs_without_mileage_u3.csv",
-      "bytes": 2742,
-      "sha256": "b674976d9cca182359f212f9fbdd66f78b9adcfd86fefa411a388cd21250a2c0"
+      "bytes": 2725,
+      "sha256": "416b927b2f0c986f81edbaa2739de4146c49546e83389de0379b19a8d87efe5c"
     },
     {
       "path": "README.md",
